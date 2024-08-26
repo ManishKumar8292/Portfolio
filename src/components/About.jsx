@@ -24,7 +24,7 @@ const About = () => {
             </h5>
             <div className="wrapper animateBtn fadeInLeft">
               <a
-                href="https://drive.google.com/file/d/1bNKbe6V5l_fWM2sl0nfEuKgWap3MwYNi/view?usp=sharing"
+                href="https://drive.google.com/file/d/1N6k-85EKVK5Sqaot0B75kqKyTLboRDat/view?usp=sharing"
                 target="_blank"
                 className="btn6"
               >
