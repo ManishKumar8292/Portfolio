@@ -10,8 +10,8 @@ const Contact = () => {
       <div className="row">
         <div className="col-sm-6">
           <img
-            src="./image/contact.png"
-            alt=""
+            src="/image/contact.png"
+            alt="Contact"
             className="h-auto w-100 py-3 px-5"
           />
         </div>

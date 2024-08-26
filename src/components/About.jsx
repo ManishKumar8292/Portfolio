@@ -24,7 +24,7 @@ const About = () => {
             </h5>
             <div className="wrapper animateBtn fadeInLeft">
               <a
-                href="https://drive.google.com/file/d/1lW6CEE3wwh8zHcSzeENgpBW_DNmmUDfG/view?usp=sharing"
+                href="https://drive.google.com/file/d/1bNKbe6V5l_fWM2sl0nfEuKgWap3MwYNi/view?usp=sharing"
                 target="_blank"
                 className="btn6"
               >
@@ -35,7 +35,7 @@ const About = () => {
           <div className="col-sm-6">
             <div className="animate fadeInRight">
               <img
-                src="./image/web developer2.png"
+                src="/image/web developer2.png"
                 alt="Web Developer"
                 className="h-auto w-100"
               />
