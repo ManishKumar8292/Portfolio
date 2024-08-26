@@ -35,7 +35,7 @@ const About = () => {
           <div className="col-sm-6">
             <div className="animate fadeInRight">
               <img
-                src="/image/web developer2.png"
+                src="./image/web developer2.png"
                 alt="Web Developer"
                 className="h-auto w-100"
               />
