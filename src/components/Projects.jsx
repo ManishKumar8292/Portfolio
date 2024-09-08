@@ -1,6 +1,11 @@
 /* eslint-disable react/jsx-key */
 const projectDetails = [
   {
+    projectLink: "https://manishkumar8292.github.io/Web-Design-Website/",
+    projectTitle: "Web Design",
+    projectButton: "https://manishkumar8292.github.io/Web-Design-Website/",
+  },
+  {
     projectLink: "https://manishkumar8292.github.io/Food-Site/",
     projectTitle: "Food Site",
     projectButton: "https://manishkumar8292.github.io/Food-Site/",
