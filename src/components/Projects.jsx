@@ -25,6 +25,11 @@ const projectDetails = [
     projectTitle: "Tyre Shop",
     projectButton: "https://manishkumar8292.github.io/TyreShop-site/",
   },
+  {
+    projectLink: "https://manishkumar8292.github.io/Myntra_clone/",
+    projectTitle: "Myntra Clone",
+    projectButton: "https://manishkumar8292.github.io/Myntra_clone/",
+  },
 ];
 
 const Projects = () => {
